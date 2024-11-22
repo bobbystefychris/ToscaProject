@@ -1,0 +1,44 @@
+[3] 11:52:36 PM: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\Demp\Demp.tws'
+[3] 11:52:36 PM: Log level: 4
+[3] 11:52:36 PM: Release: 24.1.1.5090
+[3] 11:52:36 PM: Execution Approval is disabled.
+[3] 11:52:36 PM: Using the following service discovery: %TRICENTIS_ALLUSERS_APPDATA%\Settings\XML
+[1] 11:52:36 PM: Configured service discovery "%TRICENTIS_ALLUSERS_APPDATA%\Settings\XML" is invalid.
+[0] 11:52:36 PM: System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind, UriCreationOptions& creationOptions)
+   at System.Uri..ctor(String uriString)
+   at Tricentis.TCCore.Base.Workspace.InitializeServices()
+[3] 11:52:36 PM:  Save started!
+[3] 11:52:36 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 11:52:36 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 11:52:36 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 11:52:36 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 11:52:36 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 11:52:36 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 11:52:36 PM:  Save finished!
+[2] 11:52:37 PM: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+[4] 11:52:37 PM:  ShowStatusInfo: 'New Project with Default-Folders created!'
+[3] 11:52:37 PM:  Save started!
+[3] 11:52:37 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 11:52:37 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 11:52:37 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 11:52:37 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 11:52:37 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 11:52:37 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 11:52:37 PM:  Save finished!
+[4] 11:52:37 PM:  ShowStatusInfo: 'Workspace 'C:\Tosca_Projects\Tosca_Workspaces\Demp\Demp.tws' created successfully!'
+[4] 11:52:37 PM:  ShowStatusInfo: 'Importing workspace template, please wait...'
+[4] 11:52:39 PM:  ShowStatusInfo: 'Import Subset finalizing ...'
+[4] 11:52:39 PM:  ShowStatusInfo: 'Import Subset finished'
+[3] 11:52:39 PM: Task 'Import Subset' finished
+[4] 11:52:39 PM:  ShowStatusInfo: 'Workspace template successfully imported!'
+[3] 11:52:39 PM:  Save started!
+[3] 11:52:39 PM: QTestIntegrationAddIn beginning to Export to QTest
+[3] 11:52:39 PM: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 11:52:39 PM: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 11:52:39 PM: LinkTcToQTestService grouping testcases by same endpoint
+[3] 11:52:39 PM: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 11:52:39 PM: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 11:52:40 PM:  Save finished!
+[3] 11:52:44 PM: Closing Workspace!
+[3] 11:52:44 PM: Log closed!
